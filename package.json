@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yodasoda1219/diavolobot/issues"
   },
-  "homepage": "https://github.com/yodasoda1219/diavolobot#readme"
+  "homepage": "https://github.com/yodasoda1219/diavolobot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
 }
