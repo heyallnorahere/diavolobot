@@ -1,0 +1,19 @@
+{
+  "name": "diavolobot",
+  "version": "1.0.0",
+  "description": "a discord bot that sends \"diavolo\" every 30 minutes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yodasoda1219/diavolobot.git"
+  },
+  "author": "ys1219",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yodasoda1219/diavolobot/issues"
+  },
+  "homepage": "https://github.com/yodasoda1219/diavolobot#readme"
+}
