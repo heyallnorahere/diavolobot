@@ -5,7 +5,9 @@ client.once('ready', function() {
     console.log('ready');
 });
 client.on('message', function(msg) {
-    if ((msg.author.id != client.user.id) && (msg.content == 'diavolo')) {
+    var message = msg.content;
+    var index = message.toLowerCase().indexOf('diavolo');
+    if ((msg.author.id != client.user.id) && (index != -1)) {
         msg.channel.send('diavolo');
     }
 });
