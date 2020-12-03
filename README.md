@@ -12,3 +12,5 @@ this bot just does three simple things:
 3. prints diavolos monologue
 
 ![king crimson](readmefiles/kingcrimson.png)
+
+if you want to track changes via webhooks (discord, etc.) just dm me on discord at ys1219#7277
